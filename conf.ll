@@ -1,3 +1,3 @@
-# anything to do with irc
-\b\w+\b.*root.*
-conf.traceroute
+regexp=root
+colour=green
+count=more
